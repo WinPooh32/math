@@ -1,7 +1,7 @@
 package span
 
 import (
-	"github.com/EngoEngine/math"
+	"github.com/WinPooh32/math"
 )
 
 // Span represents an interval.
